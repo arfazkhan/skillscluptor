@@ -52,4 +52,4 @@ To analyze a PDF file or URL, run the tool from the command line and provide the
 
 Example:
 ```bash
-python analyze_tool.py --file path/to/file.pdf --debug
+python main.py -f path/to/file.pdf --debug
